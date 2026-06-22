@@ -19,7 +19,7 @@ The DC input passes through a 1N4007 diode providing reverse polarity protection
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/4b2291ce-5e62-4661-bacd-7dd55eed535c" />
 
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9d7df04f-143f-4e55-8f69-8aa90f940a57" />
+
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/a2a132ae-12be-412f-8ba9-1d0e0a412cb7" />
 
